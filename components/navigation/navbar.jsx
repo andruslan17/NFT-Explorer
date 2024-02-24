@@ -6,7 +6,7 @@ export default function Navbar() {
 			<a href="https://memeduck.netlify.app" target={"_blank"}>
 				<img
 					className={styles.alchemy_logo}
-					src="/alchemy_logo.svg"
+					src="/alchemy_logo.png"
 				></img>
 			</a>
 			<ConnectButton></ConnectButton>
